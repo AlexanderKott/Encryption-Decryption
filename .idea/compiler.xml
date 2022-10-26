@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-kotlin.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-reports-tests.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-test-results.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-tmp.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main___function-But_what's_it_for.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main___function-One_after_another.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Printing_arguments.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Select_an_entry_point.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main___function-Using_arguments.main" target="11" />
+      <module name="Encryption-Decryption.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
